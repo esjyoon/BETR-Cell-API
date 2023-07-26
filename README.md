@@ -1,2 +1,2 @@
 # BETR-Cell-API
-All API related to BETR Cell manipulation (UW TRL)
+API tests related to BETR Cell manipulation (UW TRL)
